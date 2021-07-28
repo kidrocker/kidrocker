@@ -1,5 +1,5 @@
 - 👋 Hi,  I’m Denis Kiura
--I am a fullstack developer currently working at Hokela Interactive Africa.
+-I am a fullstack developer currently Freelancing and open to opportunities.
 - I am interested in building the Africa of tomorrow
 - My expertise is Android(Kotlin), Php (Laravel) and Javascript (VueJs).
 - You will also find me playing around with Flutter, Java, Go and Elixir.
